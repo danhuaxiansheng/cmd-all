@@ -7,8 +7,8 @@ git 10054报错，在git管理器中执行：
 git config --global http.sslVerify "false"
 
 取消代理配置
-
 git config --global --unset http.proxy
+
 git config --global --unset https.proxy
 
 查看git所有配置
